@@ -1,0 +1,27 @@
+итого 192
+-rwxr-xr-x 1 paul paul  8712 Июл  9 18:24 billy
+-rw-r--r-- 1 paul paul   227 Июл  9 18:23 billy.c
+-rwxr-xr-x 1 paul paul  8688 Июл  6 22:23 chargen
+-rw-r--r-- 1 paul paul   145 Июл  6 22:24 chargen.c
+-rwxr-xr-x 1 paul paul  8632 Июл  9 20:18 decode
+-rw-r--r-- 1 paul paul   169 Июл  9 20:25 decode.c
+-rw-r--r-- 1 paul paul 11776 Июл  3 21:40 file1.doc
+-rwxr-xr-x 1 paul paul  8720 Июл 16 22:06 hello
+-rw-r--r-- 1 paul paul   281 Июл 16 22:06 hello.c
+-rw-r--r-- 1 paul paul     0 Июл 17 21:12 listing.txt
+lrwxrwxrwx 1 paul paul     9 Июл  3 21:41 ln1 -> file1.doc
+-rw-r--r-- 1 paul paul  1415 Июл 10 19:52 ls-output.txt
+-rwxr-xr-x 1 paul paul  8800 Июл  6 21:01 monkeys
+-rwxr-xr-x 1 paul paul   209 Июл  6 21:02 monkeys.c
+-rwxr-xr-x 1 paul paul  8688 Июл  8 21:19 myname
+-rw-r--r-- 1 paul paul   143 Июл  8 21:19 myname.c
+-rwxr-xr-x 1 paul paul  8728 Июл  9 18:37 smile
+-rw-r--r-- 1 paul paul   367 Июл  9 18:38 smile.c
+-rwxr-xr-x 1 paul paul  8632 Июл  6 21:20 sum1
+-rw-r--r-- 1 paul paul   133 Июл  6 21:20 sum1.c
+-rwxr-xr-x 1 paul paul  8696 Июл  9 19:12 three
+-rw-r--r-- 1 paul paul   286 Июл  9 19:12 three.c
+-rwxr-xr-x 1 paul paul  8632 Июл  9 17:51 toys
+-rw-r--r-- 1 paul paul   262 Июл  9 17:51 toys.c
+-rwxr-xr-x 1 paul paul  8688 Июл  8 21:24 years
+-rw-r--r-- 1 paul paul   139 Июл  8 21:23 years.c
